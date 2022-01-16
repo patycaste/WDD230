@@ -1,4 +1,4 @@
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 355px) {
   main 
   {
   grid-template-columns: auto auto;
@@ -12,7 +12,7 @@
   
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 710px) {
   main 
   {
   grid-template-columns: auto auto auto;
