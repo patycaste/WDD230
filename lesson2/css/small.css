@@ -1,0 +1,46 @@
+ main{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: auto;
+    }
+
+
+header{
+    background-color: #C20114; 
+   }
+   
+h1, h2{
+    color:aliceblue;
+    text-align: center;   
+}
+
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 35px;
+}
+
+
+
+main section{
+    border: 1px solid #0C120C;
+    margin: 0.5px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px;
+    background-color: rgb(196, 240, 241);
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    }
+
+h4{
+    font-size: 23px;
+    text-align: center; 
+}
+p{
+    font-size: 20px;
+} 
