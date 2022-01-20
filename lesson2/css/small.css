@@ -11,11 +11,13 @@ header{
    
 h1, h2{
     color:aliceblue;
-    text-align: center;   
+    text-align: center;
+    font-family: 'Barlow', sans-serif;   
 }
 
 h1 {
     font-size: 50px;
+    
 }
 h2 {
     font-size: 35px;
