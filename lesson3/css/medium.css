@@ -1,0 +1,16 @@
+@media  (min-width: 32.5em){
+    header,
+    footer {display: flex;
+        }
+    .menu li{
+            display: inline-block;}
+    }
+    
+    @media  (min-width: 64em){
+        header,
+        footer {display: flex;}
+    h1{
+        font-size: 2.5em;}
+    }
+
+    

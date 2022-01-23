@@ -1,0 +1,105 @@
+nav{
+    font-family: 'Arial';
+    font-size: 18px;
+    
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #ff5100;
+    width:100%;
+    margin: auto;
+    color: #00005F;
+
+}
+
+header{
+    display: grid;
+    grid: 1fr;
+    background-color: #00005F;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+  
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic';
+    font-size: 20px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color:#00005F;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: list-item;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #00005F;
+    color:white
+}
+footer {  
+        display: grid;
+        padding: 10px;
+        background: #00005F;
+        
+}
+
+.footer p{
+    font-family: Verdana, Sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.img{
+   display: flex;
+   margin-left: 80px;
+}
+
+/* Typography css */
+
+.typo-conteiner{
+padding-left: 20px;
+}
+
+.acme{
+    font-family: 'Acme', sans-serif;
+}
+
+
+.helvatica{
+    font-family: 'Helvetica', sans-serif;
+}
+.gothic{
+    font-family: 'Franklin Gothic';
+}
+
+.arial{
+    font-family: 'Arial', Helvetica;
+}
+
+
+/* Audience css */
+
+
+/* Color Scheme css */
+    
+    
+  
