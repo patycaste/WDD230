@@ -1,0 +1,36 @@
+/* 32.5em = 520 px */
+@media only screen and (min-width: 32.5em){
+.complete-logo img{
+    width: 100%;
+    height: auto;
+}
+.headings h1{
+    font-size: 40px;
+}
+
+foot-er{
+    display: flex;
+}
+.full-logo{
+    display: flex;
+
+}
+.actualyear{
+    display: flex;
+
+}
+
+
+
+/*64em = 544 px*/
+@media  only screen and (min-width: 64em){
+nav button{
+    display: none;
+}
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    padding-left: 12px;
+}
